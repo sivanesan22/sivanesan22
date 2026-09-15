@@ -1,12 +1,8 @@
 # 🐍 Sivanesan — Python Full Stack Developer
 
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sivanesan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
 ## 🐍 Python Full Stack Developer
 
 **Python • Django • Django REST Framework • MySQL • JavaScript**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;Backend+Developer;Full+Stack+Web+Developer;Building+Real+World+Projects)
 
 ---
 
@@ -81,15 +77,11 @@
 
 ## 🚗 Rental Car Management System
 
-[![Rental Car](https://github-readme-stats.vercel.app/api/pin/?username=sivanesan22&repo=rental-car&theme=tokyonight&hide_border=true)](https://github.com/sivanesan22/rental-car)
-
 A Django-based web application for managing rental cars and rental operations.
 
-### 🛠️ Technologies
+**Technologies:** Python • Django • MySQL • HTML • CSS • JavaScript
 
-**Python • Django • MySQL • HTML • CSS • JavaScript**
-
-### ✨ Features
+**Features:**
 
 - 🚘 Car Listing
 - 🗂️ Car Categories
@@ -98,9 +90,9 @@ A Django-based web application for managing rental cars and rental operations.
 - 🖼️ Image Management
 - 📋 Rental Management
 
-🌐 **Live Demo:** [Rental Car Application](https://rental-car-usom.onrender.com/)
+🌐 **Live Demo:** https://rental-car-usom.onrender.com/
 
-🔗 **GitHub Repository:** [sivanesan22/rental-car](https://github.com/sivanesan22/rental-car)
+🔗 **GitHub:** https://github.com/sivanesan22/rental-car
 
 ---
 
@@ -108,11 +100,9 @@ A Django-based web application for managing rental cars and rental operations.
 
 A simple web application for creating and managing recipe notes.
 
-### 🛠️ Technologies
+**Technologies:** HTML • CSS • JavaScript
 
-**HTML • CSS • JavaScript**
-
-### ✨ Features
+**Features:**
 
 - 📝 Create Recipes
 - ✏️ Update Recipes
@@ -120,51 +110,19 @@ A simple web application for creating and managing recipe notes.
 - 🔎 Browse Recipes
 - 📱 Responsive Interface
 
-🌐 **Live Demo:** [Recipe Notes](https://recipe-notes-swart.vercel.app/)
+🌐 **Live Demo:** https://recipe-notes-swart.vercel.app/
 
 ---
 
-# 💡 More Projects Coming Soon
+# 📊 GitHub Statistics
 
-🐍 **Building** • 🚀 **Learning** • 💻 **Improving**
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight)
 
----
-
-## 🏆 GitHub Achievements
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&row=1)
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sivanesan22&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Developer Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivanesan22&bg_color=0f0c29&color=ffffff&line=00f7ff&point=ffffff&area=true&hide_border=true)
----
-
-# 💭 Developer Quote
-
-![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 🤝 Let's Connect
-
-### 💼 LinkedIn
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivanesan-settu)
-
-### 📧 Email
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivanesanit2003@gmail.com)
-
----
-
-### 💼 Open to Entry-Level Opportunities
+# 💼 Open to Entry-Level Opportunities
 
 🐍 Python Developer  
 ⚙️ Django Developer  
@@ -172,8 +130,14 @@ A simple web application for creating and managing recipe notes.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=sivanesan22&label=PROFILE+VIEWS&style=for-the-badge)
+# 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivanesan-settu)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivanesanit2003@gmail.com)
+
+---
 
 ### 🚀 Thanks for visiting my profile!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
+![Profile Views](https://komarev.com/ghpvc/?username=sivanesan22&label=PROFILE+VIEWS&style=for-the-badge)
