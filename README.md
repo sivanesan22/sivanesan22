@@ -1,14 +1,12 @@
-<div align="center">
+# 🐍 Sivanesan — Python Full Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sivanesan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sivanesan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 🐍 Python Full Stack Developer
+## 🐍 Python Full Stack Developer
 
-### Python • Django • Django REST Framework • MySQL • JavaScript
+**Python • Django • Django REST Framework • MySQL • JavaScript**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;Backend+Developer;Full+Stack+Web+Developer;Building+Real+World+Projects">
-
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;Backend+Developer;Full+Stack+Web+Developer;Building+Real+World+Projects)
 
 ---
 
@@ -34,25 +32,24 @@
 
 # 🛠️ Tech Stack
 
-<div align="center">
-
 ### 🐍 Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql" />
-
-<br><br>
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
@@ -71,8 +68,6 @@
 
 # 🎯 What I Build
 
-<div align="center">
-
 | 🐍 Backend | 🌐 Full Stack | 🗄️ Database |
 |---|---|---|
 | Django Applications | Responsive Websites | MySQL |
@@ -80,23 +75,13 @@
 | Authentication | API Integration | SQL Queries |
 | Database Integration | Frontend + Backend | CRUD Operations |
 
-</div>
-
 ---
 
 # 🚀 Featured Projects
 
 ## 🚗 Rental Car Management System
 
-<div align="center">
-
-<a href="https://github.com/sivanesan22/rental-car">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sivanesan22&repo=rental-car&theme=tokyonight&hide_border=true">
-
-</a>
-
-</div>
+[![Rental Car](https://github-readme-stats.vercel.app/api/pin/?username=sivanesan22&repo=rental-car&theme=tokyonight&hide_border=true)](https://github.com/sivanesan22/rental-car)
 
 A Django-based web application for managing rental cars and rental operations.
 
@@ -113,9 +98,9 @@ A Django-based web application for managing rental cars and rental operations.
 - 🖼️ Image Management
 - 📋 Rental Management
 
-🌐 **Live Demo:** https://rental-car-usom.onrender.com/
+🌐 **Live Demo:** [Rental Car Application](https://rental-car-usom.onrender.com/)
 
-🔗 **GitHub:** https://github.com/sivanesan22/rental-car
+🔗 **GitHub Repository:** [sivanesan22/rental-car](https://github.com/sivanesan22/rental-car)
 
 ---
 
@@ -135,114 +120,70 @@ A simple web application for creating and managing recipe notes.
 - 🔎 Browse Recipes
 - 📱 Responsive Interface
 
-🌐 **Live Demo:** https://recipe-notes-swart.vercel.app/
+🌐 **Live Demo:** [Recipe Notes](https://recipe-notes-swart.vercel.app/)
 
 ---
 
-<div align="center">
-
 # 💡 More Projects Coming Soon
 
-🐍 Building • 🚀 Learning • 💻 Improving
-
-</div>
+🐍 **Building** • 🚀 **Learning** • 💻 **Improving**
 
 ---
 
 # 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1">
-
-</div>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight&hide_border=true">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sivanesan22&theme=tokyonight&hide_border=true">
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=sivanesan22&theme=tokyonight&hide_border=true)
 
 ---
 
 # 📈 Developer Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivanesan22&bg_color=0f0c29&color=ffffff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%">
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivanesan22&bg_color=0f0c29&color=ffffff&line=00f7ff&point=ffffff&area=true&hide_border=true)
 
 ---
 
 # 💭 Developer Quote
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-
-</div>
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 # 🤝 Let's Connect
 
-<div align="center">
+### 💼 LinkedIn
 
-<a href="https://linkedin.com/in/sivanesan-settu">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivanesan-settu)
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+### 📧 Email
 
-</a>
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivanesanit2003@gmail.com)
 
-&nbsp;&nbsp;&nbsp;
+---
 
-<a href="mailto:sivanesanit2003@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
-</a>
-
-<br><br>
-
-💼 **Open to Entry-Level Opportunities**
-
-<br><br>
+### 💼 Open to Entry-Level Opportunities
 
 🐍 Python Developer  
 ⚙️ Django Developer  
 💻 Python Full Stack Developer
 
-</div>
-
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sivanesan22&label=PROFILE+VIEWS&style=for-the-badge">
-
-<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=sivanesan22&label=PROFILE+VIEWS&style=for-the-badge)
 
 ### 🚀 Thanks for visiting my profile!
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%">
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
