@@ -43,7 +43,36 @@ Python • Django • Django REST Framework • MySQL • JavaScript
 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
 ---
+---
 
+## 🟢 Current Focus
+
+<div align="center">
+
+| 🚀 Focus | 📌 Details |
+|----------|------------|
+| 🐍 Python | Building backend applications |
+| ⚙️ Django | Developing full-stack web applications |
+| 🔌 REST APIs | Creating and testing APIs |
+| 🗄️ MySQL | Database design and CRUD operations |
+| 🌐 JavaScript | Improving frontend functionality |
+| 💼 Career | Open to entry-level Python Developer opportunities |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Currently Learning
+
+`Django` • `Django REST Framework` • `REST APIs` • `MySQL` • `JavaScript`
+
+### 💼 Open to Opportunities
+
+**Python Developer • Django Developer • Python Full Stack Developer**
+
+</div>
 ## 🎯 What I Build
 
 <div align="center">
@@ -62,6 +91,24 @@ Database Integration
 </td>
 
 <td align="center" width="33%">
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sivanesan22&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ### 🌐 Full Stack
 
@@ -129,6 +176,15 @@ Key Features
 </div>
 📫 Connect With Me
 <div align="center"> <a href="https://linkedin.com/in/sivanesan-settu"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sivanesanit2003@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
 📊 GitHub Statistics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight&hide_border=true" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 🔥 Contribution Streak
