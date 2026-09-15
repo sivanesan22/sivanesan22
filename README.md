@@ -45,31 +45,39 @@ I enjoy developing real-world applications using **Python, Django, REST APIs, My
 
 ## 🛠️ Tech Stack
 
-### 🐍 Programming Language
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🐍 Backend
 
-### ⚙️ Backend
+<a href="#">
+<img src="https://skillicons.dev/icons?i=python,django,mysql" />
+</a>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+<br><br>
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="#">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</a>
 
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br><br>
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="#">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,git,github,vscode,postman&perline=5" />
+
+</div>
 ---
 
 ## 🚀 Featured Projects
