@@ -119,3 +119,20 @@ A web application for creating, managing and exploring recipe notes.
 🌐 [Live Demo](https://recipe-notes-swart.vercel.app/)
 
 ---
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="linkedin.com/in/sivanesan-settu">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="sivanesanit2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
