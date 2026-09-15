@@ -136,3 +136,22 @@ A web application for creating, managing and exploring recipe notes.
 </a>
 
 </p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sivanesan22&theme=tokyonight)
+
+</div>
