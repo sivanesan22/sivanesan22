@@ -54,3 +54,68 @@ I enjoy developing real-world applications using **Python, Django, REST APIs, My
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce & Order Management System
+
+A full-stack e-commerce web application built using Python and Django.
+
+**Key Features**
+
+- 🔐 User Registration & Login
+- 🛍️ Product Management
+- 🔎 Product Search & Filtering
+- 🛒 Shopping Cart
+- 📦 Order Management
+- 💳 Checkout & Payment Flow
+- 👨‍💼 Admin Dashboard
+
+**Tech Stack:** Python • Django • MySQL • HTML • CSS • JavaScript
+
+🔗 [View Project](YOUR_ECOMMERCE_REPOSITORY_LINK)
+
+---
+
+### 🚗 Rental Car Management System
+
+A Django-based web application designed to manage cars, categories and rental operations.
+
+**Key Features**
+
+- 🚘 Car Listing
+- 🗂️ Car Categories
+- 🔍 Car Search
+- 👤 User Management
+- 📋 Rental Management
+- 🖼️ Car Image Management
+- 👨‍💼 Admin Management
+
+**Tech Stack:** Python • Django • MySQL • HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/sivanesan22/rental-car)
+
+🌐 [Live Demo](https://rental-car-usom.onrender.com/)
+
+---
+
+### 🍳 Recipe Notes
+
+A web application for creating, managing and exploring recipe notes.
+
+**Key Features**
+
+- 📝 Create Recipe Notes
+- ✏️ Update Recipes
+- 🗑️ Delete Recipes
+- 🔎 Browse Recipes
+- 📱 Responsive Interface
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 [View Project](YOUR_RECIPE_REPOSITORY_LINK)
+
+🌐 [Live Demo](https://recipe-notes-swart.vercel.app/)
+
+---
