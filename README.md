@@ -42,6 +42,50 @@ Python • Django • Django REST Framework • MySQL • JavaScript
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
+---
+
+## 🎯 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🐍 Backend
+
+Django Applications  
+REST APIs  
+Authentication  
+Database Integration
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Full Stack
+
+Responsive Websites  
+CRUD Applications  
+Frontend + Backend  
+API Integration
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️ Database
+
+MySQL  
+Database Design  
+CRUD Operations  
+SQL Queries
+
+</td>
+</tr>
+</table>
+
+</div>
 🚀 Featured Projects
 🚗 Rental Car Management System
 <div align="center"> <a href="https://github.com/sivanesan22/rental-car"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sivanesan22&repo=rental-car&theme=tokyonight&hide_border=true" /> </a> </div>
