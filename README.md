@@ -20,15 +20,27 @@ I enjoy developing real-world applications using **Python, Django, REST APIs, My
 
 ---
 
-## 🚀 About Me
+---
 
-- 🎓 B.Tech Information Technology Graduate
-- 🐍 Python Full Stack Developer
-- 💻 Interested in Full Stack & Backend Development
-- 🌱 Currently improving my Django & REST API skills
-- 🗄️ MySQL & Database Management
-- 🔧 Git, GitHub, Postman & VS Code
-- 🔍 Open to entry-level Python Developer opportunities
+## 👨‍💻 About Me
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│              $ whoami                        │
+├──────────────────────────────────────────────┤
+│ 👨‍💻 Python Full Stack Developer             │
+│ 🎓 B.Tech Information Technology Graduate    │
+│                                              │
+│ 🔥 Building real-world web applications     │
+│ 🐍 Python + Django + REST APIs               │
+│ 🗄️ MySQL & Database Management              │
+│ 🌐 HTML + CSS + JavaScript                   │
+│ 🔧 Git + GitHub + Postman + VS Code          │
+│                                              │
+│ 🚀 Learning → Building → Improving           │
+└──────────────────────────────────────────────┘
 ---
 
 ## 🛠️ Tech Stack
