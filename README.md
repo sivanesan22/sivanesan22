@@ -132,8 +132,7 @@ A simple web application for creating and managing recipe notes.
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&row=1)
 ---
 
 ## 🔥 Contribution Streak
