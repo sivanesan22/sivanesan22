@@ -92,3 +92,27 @@ Key Features
 <div align="center">
 🚀 Thanks for visiting my profile!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/> </div> ```
+---
+
+## ⚡ Developer Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivanesan22&bg_color=0f0c29&color=ffffff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧑‍💻 Coding Mindset
+
+<div align="center">
+
+```text
+💡 Think → Code → Test → Debug → Improve
+
+🐍 Python        ████████████████████
+⚙️ Django        ██████████████████░░
+🌐 Web Development ████████████████░░░░
+🗄️ MySQL        █████████████████░░░
+🔌 REST APIs     ███████████████░░░░░
