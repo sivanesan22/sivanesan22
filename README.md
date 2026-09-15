@@ -80,68 +80,73 @@ I enjoy developing real-world applications using **Python, Django, REST APIs, My
 </div>
 ---
 
+---
+
 ## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sivanesan22/rental-car">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sivanesan22&repo=rental-car&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="YOUR_ECOMMERCE_REPOSITORY_LINK">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sivanesan22&repo=YOUR_ECOMMERCE_REPOSITORY_NAME&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
 
 ### 🛒 E-Commerce & Order Management System
 
-A full-stack e-commerce web application built using Python and Django.
+**Python • Django • MySQL • HTML • CSS • JavaScript**
 
-**Key Features**
-
-- 🔐 User Registration & Login
-- 🛍️ Product Management
-- 🔎 Product Search & Filtering
-- 🛒 Shopping Cart
-- 📦 Order Management
-- 💳 Checkout & Payment Flow
-- 👨‍💼 Admin Dashboard
-
-**Tech Stack:** Python • Django • MySQL • HTML • CSS • JavaScript
-
-🔗 [View Project](YOUR_ECOMMERCE_REPOSITORY_LINK)
+- 🔐 User authentication
+- 🛍️ Product management
+- 🔎 Product search & filtering
+- 🛒 Shopping cart
+- 📦 Order management
+- 👨‍💼 Admin management
 
 ---
 
 ### 🚗 Rental Car Management System
 
-A Django-based web application designed to manage cars, categories and rental operations.
+**Python • Django • MySQL • HTML • CSS • JavaScript**
 
-**Key Features**
+- 🚘 Car listing
+- 🗂️ Car categories
+- 🔍 Car search
+- 👤 User management
+- 🖼️ Image management
+- 📋 Rental management
 
-- 🚘 Car Listing
-- 🗂️ Car Categories
-- 🔍 Car Search
-- 👤 User Management
-- 📋 Rental Management
-- 🖼️ Car Image Management
-- 👨‍💼 Admin Management
-
-**Tech Stack:** Python • Django • MySQL • HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/sivanesan22/rental-car)
-
-🌐 [Live Demo](https://rental-car-usom.onrender.com/)
+**🌐 Live Demo:** https://rental-car-usom.onrender.com/
 
 ---
 
 ### 🍳 Recipe Notes
 
-A web application for creating, managing and exploring recipe notes.
+**HTML • CSS • JavaScript**
 
-**Key Features**
+- 📝 Create recipes
+- ✏️ Update recipes
+- 🗑️ Delete recipes
+- 🔎 Browse recipes
+- 📱 Responsive interface
 
-- 📝 Create Recipe Notes
-- ✏️ Update Recipes
-- 🗑️ Delete Recipes
-- 🔎 Browse Recipes
-- 📱 Responsive Interface
+**🌐 Live Demo:** https://recipe-notes-swart.vercel.app/
 
-**Tech Stack:** HTML • CSS • JavaScript
+---
 
-🔗 [View Project](YOUR_RECIPE_REPOSITORY_LINK)
+<div align="center">
 
-🌐 [Live Demo](https://recipe-notes-swart.vercel.app/)
+### 💡 More Projects Coming Soon...
 
+🐍 Building • 🚀 Learning • 💻 Improving
+
+</div>
 ---
 ## 📫 Connect With Me
 
