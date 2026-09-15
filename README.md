@@ -8,7 +8,7 @@
 Python • Django • Django REST Framework • MySQL • JavaScript
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;Backend+%26+Web+Application+Developer;Building+Real+World+Projects;Always+Learning+%26+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;Backend+Developer;Full+Stack+Web+Developer;Building+Real+World+Projects" />
 
 </div>
 
@@ -18,126 +18,91 @@ Python • Django • Django REST Framework • MySQL • JavaScript
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 ```text
-┌──────────────────────────────────────────────┐
-│              $ whoami                        │
-├──────────────────────────────────────────────┤
-│ 👨‍💻 Python Full Stack Developer             │
-│ 🎓 B.Tech Information Technology Graduate    │
-│                                              │
-│ 🔥 Building real-world web applications     │
-│ 🐍 Python + Django + REST APIs               │
-│ 🗄️ MySQL & Database Management              │
-│ 🌐 HTML + CSS + JavaScript                   │
-│ 🔧 Git + GitHub + Postman + VS Code          │
-│                                              │
-│ 🚀 Learning → Building → Improving           │
-└──────────────────────────────────────────────┘
-</div>
+$ whoami
+
+👨‍💻 Python Full Stack Developer
+🎓 B.Tech Information Technology Graduate
+
+🔥 Building real-world web applications
+🐍 Python + Django + REST APIs
+🗄️ MySQL & Database Management
+🌐 HTML + CSS + JavaScript
+🔧 Git + GitHub + Postman + VS Code
+
+🚀 Learning → Building → Improving
+
 🛠️ Tech Stack
 <div align="center">
 🐍 Backend
 <img src="https://skillicons.dev/icons?i=python,django,mysql" />
-🎨 Frontend
+
+<br><br>
+
+🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
----
----
 
-## 🟢 Current Focus
-
+🟢 Current Focus
 <div align="center">
-
-| 🚀 Focus | 📌 Details |
-|----------|------------|
-| 🐍 Python | Building backend applications |
-| ⚙️ Django | Developing full-stack web applications |
-| 🔌 REST APIs | Creating and testing APIs |
-| 🗄️ MySQL | Database design and CRUD operations |
-| 🌐 JavaScript | Improving frontend functionality |
-| 💼 Career | Open to entry-level Python Developer opportunities |
-
+🚀 Focus	📌 Details
+🐍 Python	Building backend applications
+⚙️ Django	Developing full-stack web applications
+🔌 REST APIs	Creating and testing APIs
+🗄️ MySQL	Database design and CRUD operations
+🌐 JavaScript	Improving frontend functionality
+💼 Career
 </div>
 
----
+🎯 What I Build
+<div align="center"> <table> <tr> <td align="center" width="33%">
+🐍 Backend
 
-<div align="center">
+Django Applications
 
-### 🌱 Currently Learning
+REST APIs
 
-`Django` • `Django REST Framework` • `REST APIs` • `MySQL` • `JavaScript`
+Authentication
 
-### 💼 Open to Opportunities
-
-**Python Developer • Django Developer • Python Full Stack Developer**
-
-</div>
-## 🎯 What I Build
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🐍 Backend
-
-Django Applications  
-REST APIs  
-Authentication  
 Database Integration
 
-</td>
+</td> <td align="center" width="33%">
+🌐 Full Stack
 
-<td align="center" width="33%">
+Responsive Websites
 
----
+CRUD Applications
 
-## 💭 Developer Quote
+Frontend + Backend
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sivanesan22&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
-### 🌐 Full Stack
-
-Responsive Websites  
-CRUD Applications  
-Frontend + Backend  
 API Integration
 
-</td>
+</td> <td align="center" width="33%">
+🗄️ Database
 
-<td align="center" width="33%">
+MySQL
 
-### 🗄️ Database
+Database Design
 
-MySQL  
-Database Design  
-CRUD Operations  
+CRUD Operations
+
 SQL Queries
 
-</td>
-</tr>
-</table>
+</td> </tr> </table> </div>
 
-</div>
 🚀 Featured Projects
 🚗 Rental Car Management System
 <div align="center"> <a href="https://github.com/sivanesan22/rental-car"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sivanesan22&repo=rental-car&theme=tokyonight&hide_border=true" /> </a> </div>
 
-A Django-based web application for managing rental cars, categories and rental operations.
+A Django-based web application for managing rental cars and rental operations.
 
 Tech Stack: Python • Django • MySQL • HTML • CSS • JavaScript
 
@@ -150,7 +115,7 @@ Key Features
 🖼️ Image Management
 📋 Rental Management
 
-🌐 Live Demo: Rental Car Application
+🌐 Live Demo: https://rental-car-usom.onrender.com/
 
 🍳 Recipe Notes
 
@@ -166,71 +131,47 @@ Key Features
 🔎 Browse Recipes
 📱 Responsive Interface
 
-🌐 Live Demo: Recipe Notes
+🌐 Live Demo: https://recipe-notes-swart.vercel.app/
 
 <div align="center">
-💡 More Projects Coming Soon...
+💡 More Projects Coming Soon
 
 🐍 Building • 🚀 Learning • 💻 Improving
 
 </div>
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sivanesan-settu">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:sivanesanit2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" /> </div>
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-💼 **Open to Entry-Level Opportunities**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=sivanesan22&theme=tokyonight&hide_border=true" /> </div>
+📈 Developer Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivanesan22&bg_color=0f0c29&color=ffffff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%" /> </div>
+💭 Developer Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
+🤝 Let's Connect
+<div align="center"> <a href="https://linkedin.com/in/sivanesan-settu"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+  
+
+<a href="mailto:sivanesanit2003@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<br><br>
+
+💼 Open to Entry-Level Opportunities
+
+<br>
 
 🐍 Python Developer • Django Developer • Python Full Stack Developer
 
 </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=sivanesan22&label=Profile%20Views&style=for-the-badge" />
 
-## 🏆 GitHub Achievements
+<br><br>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight&hide_border=true" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=sivanesan22&theme=tokyonight&hide_border=true" /> </div>
-<div align="center">
 🚀 Thanks for visiting my profile!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/> </div> ```
----
-
-## ⚡ Developer Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivanesan22&bg_color=0f0c29&color=ffffff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🧑‍💻 Coding Mindset
-
-<div align="center">
-
-```text
-💡 Think → Code → Test → Debug → Improve
-
-🐍 Python        ████████████████████
-⚙️ Django        ██████████████████░░
-🌐 Web Development ████████████████░░░░
-🗄️ MySQL        █████████████████░░░
-🔌 REST APIs     ███████████████░░░░░
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
