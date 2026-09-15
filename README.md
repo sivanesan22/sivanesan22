@@ -153,7 +153,6 @@ A simple web application for creating and managing recipe notes.
 # 📈 Developer Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivanesan22&bg_color=0f0c29&color=ffffff&line=00f7ff&point=ffffff&area=true&hide_border=true)
-
 ---
 
 # 💭 Developer Quote
