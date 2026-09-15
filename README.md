@@ -130,30 +130,27 @@ A simple web application for creating and managing recipe notes.
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sivanesan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
 
 ---
+
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight)
 
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivanesan22&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sivanesan22&layout=compact&theme=tokyonight)
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sivanesan22&theme=tokyonight&hide_border=true)
 
 ---
 
-# 📈 Developer Activity
+## 📈 Developer Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivanesan22&bg_color=0f0c29&color=ffffff&line=00f7ff&point=ffffff&area=true&hide_border=true)
 ---
