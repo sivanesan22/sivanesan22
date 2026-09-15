@@ -174,9 +174,27 @@ Key Features
 🐍 Building • 🚀 Learning • 💻 Improving
 
 </div>
-📫 Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/sivanesan-settu"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sivanesanit2003@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 ---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sivanesan-settu">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sivanesanit2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+💼 **Open to Entry-Level Opportunities**
+
+🐍 Python Developer • Django Developer • Python Full Stack Developer
+
+</div>
 
 ## 🏆 GitHub Achievements
 
