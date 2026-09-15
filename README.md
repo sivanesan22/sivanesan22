@@ -1,12 +1,18 @@
+<div align="center">
+
 # 👋 Hi, I'm Sivanesan
 
-### 🐍 Python Full Stack Developer | B.Tech IT Graduate
+### 🐍 Python Full Stack Developer
 
-I’m a passionate Python Full Stack Developer focused on building practical,
-responsive and database-driven web applications.
+**Python • Django • Django REST Framework • MySQL • JavaScript**
 
-I work with Python, Django, Django REST Framework, MySQL,
-HTML, CSS and JavaScript.
+</div>
+
+---
+
+I’m a passionate **Python Full Stack Developer** focused on building practical, responsive and database-driven web applications.
+
+I enjoy developing real-world applications using **Python, Django, REST APIs, MySQL, HTML, CSS and JavaScript.**
 
 ---
 
